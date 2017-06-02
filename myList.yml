@@ -10,11 +10,11 @@ netrunner:
         - terminal directive
     data_packs:
         genesis_cycle:
-            - what lies ahead
+#            - what lies ahead
 #            - trace amount
 #            - cyber exodus
 #            - a study in static
-            - humanity's shadow
+#            - humanity's shadow
 #            - future proof
         spin_cycle:
 #            - opening moves
@@ -25,18 +25,18 @@ netrunner:
 #            - double time
         lunar_cycle:
 #            - upstalk
-            - the spaces between
-            - first contact
+#            - the spaces between
+#            - first contact
             - up and over
-            - all that remains
-            - the source
+#            - all that remains
+#            - the source
         sansan_cycle:
-            - the valley
-            - breaker bay
-            - chrome city
-            - the underway
-            - the universe of tomorrow
-            - old hollywood
+#            - the valley
+#            - breaker bay
+#            - chrome city
+#            - the underway
+#            - the universe of tomorrow
+#            - old hollywood
         mumbad_cycle:
 #            - kala ghoda
 #            - business first
@@ -45,16 +45,15 @@ netrunner:
 #            - the liberated mind
 #            - fear the masses
         flashpoint_cycle:
-            - 23 seconds
-            - blood money
-            - escalation
-            - intervention
+#            - 23 seconds
+#            - blood money
+#            - escalation
+#            - intervention
             - martial law
-            - quorum
+#            - quorum
         redsand_cycle:
-            - daedalus complex
-            - station one
-            - earth's scion
+#            - daedalus complex
+##            - earth's scion
             - blood and water
             - free mars
             - crimson dust
